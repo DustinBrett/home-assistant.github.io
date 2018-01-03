@@ -78,7 +78,7 @@ Valid values for ignore are:
  * `sabnzbd`: SABnzbd downloader
  * `samsung_tv`: Samsung TVs
  * `sonos`: Sonos speakers
- * `tellduslive`: Telldus Live
+ * `tellduslive`: Telldus Live (Invalid config for [discovery]: value is not allowed @ data['discovery']['ignore'][20]. Got 'tellduslive'.)
  * `yamaha`: Yamaha media player
  * `yeelight`: Yeelight Sunflower bulb
  
